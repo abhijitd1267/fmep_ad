@@ -1,2 +1,1 @@
-# fmep_ad
-Financial Markets Experience Program
+# Financial Markets Experience Program
